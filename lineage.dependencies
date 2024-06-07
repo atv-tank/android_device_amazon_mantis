@@ -1,0 +1,6 @@
+[
+    {
+        "repository": "atv-tank/android_kernel_amazon_mt8127",
+        "target_path": "kernel/amazon/mt8127"
+    }
+]

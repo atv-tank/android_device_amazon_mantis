@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="atv-tank/device_amazon_tank" path="device/amazon/tank" remote="github" revision="cm-14.1" />
+  <project name="atv-tank/vendor_amazon_tank" path="vendor/amazon/tank" remote="github" revision="exp" />
+
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+
+  <remove-project name="LineageOS/android_system_core" />
+  <project name="atv-tank/android_system_core" path="system/core" remote="github" revision="cm-14.1" />
+
+</manifest>
+
